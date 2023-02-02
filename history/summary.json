@@ -4,7 +4,7 @@
     "url": "https://vrbt.10099.com.cn/#/home",
     "icon": "https://icons.duckduckgo.com/ip3/vrbt.10099.com.cn.ico",
     "slug": "vrbt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1280,
     "timeYear": 1280,
     "dailyMinutesDown": {
+      "2023-02-02": 0,
       "2023-01-25": 22
     }
   }
