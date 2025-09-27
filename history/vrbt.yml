@@ -1,7 +1,7 @@
 url: https://vrbt.10099.com.cn/#/home
-status: degraded
-code: 502
-responseTime: 11845
-lastUpdated: 2025-09-27T05:32:19.729Z
+status: up
+code: 200
+responseTime: 2363
+lastUpdated: 2025-09-27T05:42:11.556Z
 startTime: 2023-01-06T04:25:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
